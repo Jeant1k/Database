@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kp.dir/src/main.cpp.o CMakeFiles/kp.dir/src/database.cpp.o CMakeFiles/kp.dir/src/utils/utils.cpp.o -o ../bin/kp  -lpqxx 

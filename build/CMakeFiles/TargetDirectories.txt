@@ -1,0 +1,3 @@
+/home/jeantik/programs/BD/kp/build/CMakeFiles/kp.dir
+/home/jeantik/programs/BD/kp/build/CMakeFiles/edit_cache.dir
+/home/jeantik/programs/BD/kp/build/CMakeFiles/rebuild_cache.dir
